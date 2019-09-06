@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My RecyleView</string>
+
+    <string name="nama_tempat">Nama Tempat</string>
+    <string name="detail">Detail</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+</resources>
